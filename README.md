@@ -12,4 +12,4 @@ Language Models are Unsupervised Multitask Learner
 
  Language Models are Few-Shot Learners
 
-DialoGPT Large-Scale Generative Pre-training for 
+DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation
