@@ -13,3 +13,9 @@ Language Models are Unsupervised Multitask Learner
  Language Models are Few-Shot Learners
 
 DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation
+
+## 2022年7月1日
+
+ContextNet框架
+
+ContextNet: A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding
