@@ -22,4 +22,4 @@ ContextNet: A Click-Through Rate Prediction Framework Using Contextual informati
 
 ## 2022年7月8日
 
-深度推荐模型
+深度推荐模型总结
