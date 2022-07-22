@@ -29,3 +29,9 @@ ContextNet: A Click-Through Rate Prediction Framework Using Contextual informati
 CTR综述
 
 Deep Learning for Click-Through Rate Estimation
+
+## 2022年7月22日
+
+BST模型
+
+Behavior Sequence Transformer for E-commerce Recommendation in Alibaba
