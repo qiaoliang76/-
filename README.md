@@ -35,3 +35,9 @@ Deep Learning for Click-Through Rate Estimation
 BST模型
 
 Behavior Sequence Transformer for E-commerce Recommendation in Alibaba
+
+## 2022年7月29日
+
+CAN模型
+
+CAN: Feature Co-Action for Click-Through Rate Prediction
