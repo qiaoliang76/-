@@ -41,3 +41,9 @@ Behavior Sequence Transformer for E-commerce Recommendation in Alibaba
 CAN模型
 
 CAN: Feature Co-Action for Click-Through Rate Prediction
+
+## 2022年8月5日
+
+AutoInt模型
+
+AutoInt: Automatic Feature Interaction Learningvia Self-Attentive Neural Networks
